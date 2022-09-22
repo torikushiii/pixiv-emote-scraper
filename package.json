@@ -1,0 +1,12 @@
+{
+  "name": "pixiv-emote-scraper",
+  "author": "torikushiii",
+  "module": "index.js",
+  "devDependencies": {
+    "bun-types": "^0.1.0"
+  },
+  "type": "commonjs",
+  "dependencies": {
+    "got": "11.8.1"
+  }
+}
