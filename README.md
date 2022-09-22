@@ -17,6 +17,8 @@ yarn/npm install
 ```
 
 ## Usage
+Please create folder named `emotes` before running the script.
+
 To get your `refresh_token`, Please follow this [guide](https://gist.github.com/ZipFile/c9ebedb224406f4f11845ab700124362) to obtain your refresh token.
 
 To get your cookie, go to Pixiv and use dev tools to obtain your cookie from request header.
