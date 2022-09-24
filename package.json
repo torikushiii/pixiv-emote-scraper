@@ -5,8 +5,15 @@
   "devDependencies": {
     "bun-types": "^0.1.0"
   },
+  "scripts": {
+    "lint-fix": "eslint . --fix"
+  },
   "type": "commonjs",
   "dependencies": {
+    "@babel/core": "^7.19.1",
+    "@babel/eslint-parser": "^7.19.1",
+    "eslint": "^8.24.0",
+    "eslint-plugin-unicorn": "^43.0.2",
     "got": "11.8.1"
   }
 }
